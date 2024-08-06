@@ -30,7 +30,7 @@
       }
    }
    &.active{
-      background-color:  rgba(234,106,18,0.7);
+      background-color:  rgba(47, 221, 53, 0.7);
            .heading-title {
                color: $white;
             }
@@ -57,7 +57,7 @@
               }
    }
    &:hover{
-      background-color:  rgba(234,106,18,0.7);
+      background-color:  rgba(141, 201, 68, 0.7);
       color: $white;
       cursor: pointer;
       h2{
@@ -109,7 +109,7 @@
       }
   }
    &.active{
-      background-color:  rgba(234,106,18,0.7);
+      background-color:  rgba(102, 192, 54, 0.7);
            .heading-title {
                color: $white;
             }
@@ -132,7 +132,7 @@
               }
 }
    &:hover{
-      background-color:  rgba(234,106,18,0.7);
+      background-color:  rgba(159, 190, 57, 0.7);
       cursor: pointer;
       .heading-title {
           color: $white;
@@ -161,7 +161,7 @@
 
 .cusomer-card {
    &.active{
-      background-color:  rgba(234,106,18,0.7);
+      background-color:  rgba(133, 190, 47, 0.7);
            h6{
                color: $white;
             }
@@ -173,7 +173,7 @@
               }
 }
    &:hover{
-      background-color:  rgba(234,106,18,0.7);
+      background-color:  rgba(69, 124, 39, 0.7);
       h6{
          color: $white;
       }
