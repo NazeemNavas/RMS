@@ -21438,3 +21438,6 @@ img.img-user {
 .user-img1 {
   position: fixed;
   top: 280px; }
+.end{
+  float: right;
+}
